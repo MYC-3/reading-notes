@@ -16,5 +16,3 @@ In order to keep a growth mindset you should:
 - Ask questions
 - Be open-minded
 - Accept failure and learn from it
-
-![Millenium Falcon](https://images.unsplash.com/photo-1598501479146-ef2b41258663?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1789&q=80)
