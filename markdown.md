@@ -5,7 +5,7 @@
 - Markdown is simple and convenient language that can help format and stylize your text on the web.
 - Markdown mostly uses plain-text.
 - To create a header, begin the line with `#`. Adding multiple `###` will create smaller and smaller headers (Up to 6 of them).
-- Markdown can also format text into lists. It's as easy as:
+- Markdown can also format text into lists. It's as easy as:  
 ```
   1. One
   2. Two
