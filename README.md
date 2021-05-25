@@ -19,11 +19,11 @@ In order to keep a growth mindset you should:
 
 ### Table of Contents
 
-- [Reading 1](markdown.md)
-- [Reading 2](coderscomputer.md)
-- [Reading 3](github.md)
-- [Reading 4](html.md)
-- [Reading 5](css.md)
-- [Reading 6](javascript.md)
-- [Reading 7](javascript2.md)
-- [Reading 8](operators.md)
+- [Reading 1 - Learning Markdown](markdown.md)
+- [Reading 2 - The Coder's Computer](coderscomputer.md)
+- [Reading 3 - Revisions and the Cloud](github.md)
+- [Reading 4 - Structure web pages with HTML](html.md)
+- [Reading 5 - Design web pages with CSS](css.md)
+- [Reading 6 - Dynamic web pages with Javascript](javascript.md)
+- [Reading 7 - Programming with Javascript](javascript2.md)
+- [Reading 8 - Operators and Loops](operators.md)

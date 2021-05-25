@@ -18,7 +18,7 @@ A wireframe is a visual mock-up of what the developer or client wants a webpage 
 
 ## HTML (Hypertext Markup Language)
 
-HTML is the code that is used to display the contents of your webpage, contents like images, text, tables, links, etc. HTML is made up of a series of ***elements*** that usually include things like a ***tags***, ***attributes***, and ***contents***. HTML is usually combined with CSS and Javascript to make webpages.
+HTML is the code that is used to display the contents of your webpage, contents like images, text, tables, links, etc. HTML is made up of a series of ***elements*** that usually include things like ***tags***, ***attributes***, and ***contents***. HTML is usually combined with CSS and Javascript to make webpages.
 
 ## Semantics
 
