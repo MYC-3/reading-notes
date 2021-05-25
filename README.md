@@ -16,3 +16,14 @@ In order to keep a growth mindset you should:
 - Ask questions
 - Be open-minded
 - Accept failure and learn from it
+
+### Table of Contents
+
+- [Reading 1](markdown.md)
+- [Reading 2](coderscomputer.md)
+- [Reading 3](github.md)
+- Reading 4
+- Reading 5
+- Reading 6
+- Reading 7
+- Reading 8
