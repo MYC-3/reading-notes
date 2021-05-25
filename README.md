@@ -22,8 +22,8 @@ In order to keep a growth mindset you should:
 - [Reading 1](markdown.md)
 - [Reading 2](coderscomputer.md)
 - [Reading 3](github.md)
-- Reading 4
-- Reading 5
-- Reading 6
-- Reading 7
-- Reading 8
+- [Reading 4](html.md)
+- [Reading 5](css.md)
+- [Reading 6](javascript.md)
+- [Reading 7](javascript2.md)
+- [Reading 8](operators.md)
