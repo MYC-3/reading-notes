@@ -1,4 +1,4 @@
-# Reading Notes for The Coder's Computer
+# Reading 2 - The Coder's Computer
 
 ## About Text Editors
 
@@ -20,3 +20,6 @@ Code | Explanation
 `pwd` | print working directory = displays current working directory
 `ls` | list, shows us what is in the current directory
 `cd [location]` | change directory
+
+
+[Back to HOME](README.md)
