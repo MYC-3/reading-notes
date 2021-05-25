@@ -25,5 +25,5 @@ Command | Explanation
 `git status` | checks status. Informs you of what has been changed/is ready to commit
 `git add nameoffile` | ADD step of ACP. Add the files that have been changed.
 `git add .` | Adds all files that have been changed.
-`git commit -m "message goes here" | COMMIT step of ACP. Keep your messages appropriate they are public
+`git commit -m "message goes here"` | COMMIT step of ACP. Keep your messages appropriate they are public
 `git push origin main` | PUSH step of ACP. Syncs all changes to GitHub.
