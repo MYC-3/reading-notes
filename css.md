@@ -4,7 +4,6 @@
 CSS (Cascading Style Sheets) is used to control how the HTML elements are presented in your web browser. For example, you can change the color, size, and layout of the content on your page.
 
 ### Practical Example
-<br/>
 
 ```css
 h1 {
@@ -23,7 +22,7 @@ There a 3 ways to insert a style sheet to format your HTML document:
 
 ### External CSS
 
-A seperate file holds all the CSS information and is linked in to your HTML code in the `<head>` section.
+A separate file holds all the CSS information and is linked in to your HTML code in the `<head>` section.
 
 ### Internal CSS
 
@@ -31,7 +30,7 @@ Useful when a single page HTML pages needs a unique style. Use the `<style>` ele
 
 ### Inline CSS
 
-Useful when applying a different style to a single element on the page. FOr example:
+Useful when applying a different style to a single element on the page. For example:
 ```markdown
 <h1 style="color:blue;text-align:center;">This is a heading</h1>
 <p style="color:red;">This is a paragraph.</p>
