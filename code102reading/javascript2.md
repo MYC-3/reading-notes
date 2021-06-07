@@ -44,4 +44,4 @@ if (field==empty) {
 
 This script will prompt a user to fill out an empty field. If there are no empty fields than the script will submit the form.
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)

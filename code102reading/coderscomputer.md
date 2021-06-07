@@ -22,4 +22,4 @@ Code | Explanation
 `cd [location]` | change directory
 
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)

@@ -29,4 +29,4 @@ Command | Explanation
 `git push origin main` | PUSH step of ACP. Syncs all changes to GitHub.
 
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)

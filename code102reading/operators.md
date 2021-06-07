@@ -73,4 +73,4 @@ For each loop, n is being incremented one and then adding that value to x.
 
 Avoid infinite loops. Set up `while` loops to make sure the condition will eventually become `false`, otherwise the loop will never end.
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)

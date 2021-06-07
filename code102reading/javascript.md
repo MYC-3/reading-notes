@@ -47,4 +47,4 @@ document.getElementById('say').addEventListener('click', say_hi);
 [Try it here](https://code-maven.com/try/examples/js/pure_js_greating.html)\
 Taken from [code-maven.com](https://code-maven.com/input-output-in-plain-javascript)
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)

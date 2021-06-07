@@ -31,4 +31,4 @@ Semantics refers to the meaning of a piece of code. For example, in HTML the `<h
 - Helps when looking for specific blocks of code
 - Makes it easier for other developers to understand your code.
 
-[Back to HOME](README.md)
+[Back to HOME](../README.md)
