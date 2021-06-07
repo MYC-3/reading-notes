@@ -20,18 +20,18 @@ In order to keep a growth mindset you should:
 ### Table of Contents
 
 #### Code102
-- [Reading 1 - Learning Markdown](markdown.md)
-- [Reading 2 - The Coder's Computer](coderscomputer.md)
-- [Reading 3 - Revisions and the Cloud](github.md)
-- [Reading 4 - Structure web pages with HTML](html.md)
-- [Reading 5 - Design web pages with CSS](css.md)
-- [Reading 6 - Dynamic web pages with Javascript](javascript.md)
-- [Reading 7 - Programming with Javascript](javascript2.md)
-- [Reading 8 - Operators and Loops](operators.md)
+- [Reading 1 - Learning Markdown](code102reading/markdown.md)
+- [Reading 2 - The Coder's Computer](code102reading/coderscomputer.md)
+- [Reading 3 - Revisions and the Cloud](code102reading/github.md)
+- [Reading 4 - Structure web pages with HTML](code102reading/html.md)
+- [Reading 5 - Design web pages with CSS](code102reading/css.md)
+- [Reading 6 - Dynamic web pages with Javascript](code102reading/javascript.md)
+- [Reading 7 - Programming with Javascript](code102reading/javascript2.md)
+- [Reading 8 - Operators and Loops](code102reading/operators.md)
 
 #### Code201
-- [Reading 1 - Introductory HTML and Javascript](introhtml.md)
-- [Reading 2 - HTML Text, CSS Introduction, and Basic Javascript Instructions](morehtml.md)
+- [Reading 1 - Introductory HTML and Javascript](code201reading/introhtml.md)
+- [Reading 2 - HTML Text, CSS Introduction, and Basic Javascript Instructions](code201reading/morehtml.md)
 - Reading 3
 - Reading 4
 - Reading 5
