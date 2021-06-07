@@ -19,6 +19,7 @@ In order to keep a growth mindset you should:
 
 ### Table of Contents
 
+#### Code102
 - [Reading 1 - Learning Markdown](markdown.md)
 - [Reading 2 - The Coder's Computer](coderscomputer.md)
 - [Reading 3 - Revisions and the Cloud](github.md)
@@ -27,3 +28,21 @@ In order to keep a growth mindset you should:
 - [Reading 6 - Dynamic web pages with Javascript](javascript.md)
 - [Reading 7 - Programming with Javascript](javascript2.md)
 - [Reading 8 - Operators and Loops](operators.md)
+
+#### Code201
+- [Reading 1 - Introductory HTML and Javascript]
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+- Reading 6
+- Reading 7
+- Reading 8
+- Reading 9
+- Reading 10
+- Reading 11
+- Reading 12
+- Reading 13
+- Reading 14
+- Reading 15
+- 
