@@ -45,4 +45,3 @@ In order to keep a growth mindset you should:
 - Reading 13
 - Reading 14
 - Reading 15
-- 
