@@ -30,7 +30,7 @@ In order to keep a growth mindset you should:
 - [Reading 8 - Operators and Loops](operators.md)
 
 #### Code201
-- [Reading 1 - Introductory HTML and Javascript]
+- [Reading 1 - Introductory HTML and Javascript](introhtml.md)
 - Reading 2
 - Reading 3
 - Reading 4
