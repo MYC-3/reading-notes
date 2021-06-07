@@ -14,7 +14,7 @@ Javascript uses `var` as containers to store data values.
 
 Some examples of Javascript in use:
 
-```
+```html
 <html>
 <head>
   <title>Hello World</title>
