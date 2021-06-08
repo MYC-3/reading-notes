@@ -32,7 +32,7 @@ In order to keep a growth mindset you should:
 #### Code201
 - [Reading 1 - Introductory HTML and Javascript](code201reading/introhtml.md)
 - [Reading 2 - HTML Text, CSS Introduction, and Basic Javascript Instructions](code201reading/morehtml.md)
-- Reading 3
+- [Reading 3 - HTML Lists, CSS Boxes, JavaScript Control Flow](code201reading/reading3.md)
 - Reading 4
 - Reading 5
 - Reading 6
