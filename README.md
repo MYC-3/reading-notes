@@ -36,7 +36,7 @@ In order to keep a growth mindset you should:
 - [Reading 4 - HTML Links, CSS Layout, JS Functions](code201reading/reading4.md/)
 - [Reading 5 - HTML Images, CSS Color & Text](code201reading/reading5.md)
 - [Reading 6 - JS Object Literals; The DOM](code201reading/reading6.md)
-- Reading 7
+- [Reading 7 - HTML Tables; JS Constructor Functions](code201reading/reading7.md)
 - Reading 8
 - Reading 9
 - Reading 10
