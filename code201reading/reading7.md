@@ -55,3 +55,5 @@ Looks like this:
   2. Document Object Model
   3. Global Javascript Objects.
 - Javascript has several built in objects like: String, Number, Math, and Date.
+
+[Back to HOME](../README.md)
