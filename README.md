@@ -38,7 +38,7 @@ In order to keep a growth mindset you should:
 - [Reading 6 - JS Object Literals; The DOM](code201reading/reading6.md)
 - [Reading 7 - HTML Tables; JS Constructor Functions](code201reading/reading7.md)
 - [Reading 8 - More CSS Layout](code201reading/reading8.md)
-- [Reading 9 - Forms and Event](code201reading/reading9md)
+- [Reading 9 - Forms and Event](code201reading/reading9.md)
 - Reading 10
 - Reading 11
 - Reading 12
