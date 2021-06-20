@@ -23,4 +23,4 @@
   - explain the code out loud.
   - use validation tools like jslint.com
 
-  [Back to HOME](../README.md)
+[Back to HOME](../README.md)

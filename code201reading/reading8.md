@@ -15,4 +15,4 @@
   - CSS can use `@import` rule to reference other stylesheets.
   - HTML can use multiple `<link>` elements for each stylesheet.
 
-  [Back to HOME](../README.md)
+[Back to HOME](../README.md)

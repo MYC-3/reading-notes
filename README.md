@@ -40,7 +40,7 @@ In order to keep a growth mindset you should:
 - [Reading 8 - More CSS Layout](code201reading/reading8.md)
 - [Reading 9 - Forms and Event](code201reading/reading9.md)
 - [Reading 10 - JS Debugging](code201reading/reading10.md)
-- Reading 11
+- [Reading 11 - Assorted Topics](code201reading/reading11.md)
 - Reading 12
 - Reading 13
 - Reading 14

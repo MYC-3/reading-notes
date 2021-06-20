@@ -32,5 +32,4 @@
   5. Form Event
   6. Mutation Event
 
-
-  [Back to HOME](../README.md)
+[Back to HOME](../README.md)
