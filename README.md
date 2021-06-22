@@ -42,6 +42,6 @@ In order to keep a growth mindset you should:
 - [Reading 10 - JS Debugging](code201reading/reading10.md)
 - [Reading 11 - Assorted Topics](code201reading/reading11.md)
 - [Reading 12 - Docs for the HTML `<canvas>` Element & Chart.js](code201reading/reading12.md)
-- Reading 13
+- [Reading 13 - Local Storage](code201reading/reading13.md)
 - Reading 14
 - Reading 15
