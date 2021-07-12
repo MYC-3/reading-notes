@@ -45,4 +45,7 @@ In order to keep a growth mindset you should:
 - [Reading 13 - Local Storage](code201reading/reading13.md)
 - [Reading 14a - CSS Animation](code201reading/reading14a.md)
 - [Reading 14b - What Google learned about Teams](code201reading/reading14b.md)
-- Reading 15
+
+
+#### Code301
+- [Reading 1 - Intro to React and Components](code301reading/reading1.md)
