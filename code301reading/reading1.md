@@ -1,6 +1,7 @@
 # Intro to React and Components
 
 ## Components
+[Notes were taken using information from this page](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 What is a **component**?
 - A component is "modular, portable, replaceable, and reusable"
@@ -28,6 +29,7 @@ What are the advantages of using component based architecture?
 - Independent
 
 ## Props
+[Notes were taken using information from this page](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 What is **props** short for?
  - props is short for properties
