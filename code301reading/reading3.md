@@ -30,6 +30,7 @@ Keys help React identify items that have changed.
   3. Use Math functions
   4. Using an array as arguments
 - Give an example of using the spread operator to combine two arrays.<br>
+
 ```ES6
 [...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
 [..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
@@ -40,19 +41,24 @@ const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
 const helloWorld = {...hello,...world}
 console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
 ```
+
 - Give an example of using the spread operator to add a new item to an array.<br>
+
 ```ES6
 const myArray = [`🤪`,`🐻`,`🎌`]
 const yourArray = [`🙂`,`🤗`,`🤩`]
 const ourArray = [...myArray,...yourArray]
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 ```
+
 ```ES6
 const fewFruit = ['🍏','🍊','🍌']
 const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
 console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
 ```
+
 - Give an example of using the spread operator to combine two objects into one.<br>
+
 ```ES6
 const objectOne = {hello: "🤪"}
 const objectTwo = {world: "🐻"}
@@ -64,6 +70,7 @@ objectFour.laugh() // 😂😂😂😂😂
 
 
 ## Passing Functions between Components
+
 [All notes were taken from here](https://www.youtube.com/watch?v=c05OL7XbwXU)
 - In the video, what is the first step that the developer does to pass functions between components?<br>
 He creates his function in the same location as the state he is looking to change.
