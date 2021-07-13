@@ -49,3 +49,4 @@ In order to keep a growth mindset you should:
 
 #### Code301
 - [Reading 1 - Intro to React and Components](code301reading/reading1.md)
+- [Reading 2 - States and Props](code301reading/reading2.md)
