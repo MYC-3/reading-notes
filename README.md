@@ -53,4 +53,5 @@ In order to keep a growth mindset you should:
 - [Reading 3 - Passing Functions as Props](code301reading/reading3.md)
 - [Reading 4 - React and Forms](code301reading/reading4.md)
 - [Reading 5 - Putting it all Together](code301reading/reading5.md)
-- [Reading 6 - Rest and API](code301reading/reading6.md)
+- [Reading 6 - NODE.JS](code301reading/reading6.md)
+- [Reading 7 - Rest and API](code301reading/reading7.md)
