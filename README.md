@@ -56,3 +56,4 @@ In order to keep a growth mindset you should:
 - [Reading 6 - NODE.JS](code301reading/reading6.md)
 - [Reading 7 - Rest and API](code301reading/reading7.md)
 - [Reading 8 - APIs](code301reading/reading8.md)
+- [Reading 9 - Functional Programming](code301reading/reading9.md)
