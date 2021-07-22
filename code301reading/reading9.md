@@ -26,7 +26,7 @@ pure functions + immutable data = referential transparency
 2. What does the word ‘require’ do?
   - Imports another file to use in your current app.
 3. How do we bring another module into the file the we are working in?
-  - `require('PathwayToModuleFile')` in your main app
+  - `let variable = require('PathwayToModuleFile')` in your main app
 4. What do we have to do to make a module available?
   - `module.exports = NameOfModule` in your module file.
 
