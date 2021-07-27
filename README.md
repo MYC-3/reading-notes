@@ -58,3 +58,4 @@ In order to keep a growth mindset you should:
 - [Reading 8 - APIs](code301reading/reading8.md)
 - [Reading 9 - Functional Programming](code301reading/reading9.md)
 - [Reading 10 - Memory Storage](code301reading/reading10.md)
+- [Reading 12 - Mongo and Mongoose](code301reading/reading12.md)
