@@ -39,14 +39,17 @@ Uses Structured Query Language | Collection of documents (somtimes called UnQL f
   - Determines which data is allowed into the table.
   - Data must conform to a defind layout/organization.
 5. What is a NoSQL database?
-  - 
-6. Howo does it work?
-
+  - MongoDB
+6. How does it work?
+  - Instead of Tables, noSQL has `collections`.
+  - Inside the collections you have `documents`.
+  - Documents do not have to follow the same schema.
 7. What is inside of a Mongo database?
-
+  - A `Collection` of `documents` that contain relevant data.
 8. Which is more flexible - SQL or MongoDB? and why.
-
+  - MongoDB because data does not have to conform to the same schema and therefore you can store more data.
+  - No relations, or very few relations. 
 9. What is the disadvantage of a NoSQL database?
-
+  - Duplicate data. Data needs to be updated in all documents with that data.
 
 [Back to HOME](../README.md)
