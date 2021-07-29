@@ -60,3 +60,4 @@ In order to keep a growth mindset you should:
 - [Reading 10 - Memory Storage](code301reading/reading10.md)
 - [Reading 12 - Mongo and Mongoose](code301reading/reading12.md)
 - [Reading 13 - CRUD](code301reading/reading13.md)
+- [Reading 14 - Diversity & Inclusion](code301reading.reading14.md)
