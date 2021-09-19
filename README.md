@@ -20,6 +20,7 @@ In order to keep a growth mindset you should:
 ### Table of Contents
 
 #### Code102
+
 - [Reading 1 - Learning Markdown](code102reading/markdown.md)
 - [Reading 2 - The Coder's Computer](code102reading/coderscomputer.md)
 - [Reading 3 - Revisions and the Cloud](code102reading/github.md)
@@ -30,6 +31,7 @@ In order to keep a growth mindset you should:
 - [Reading 8 - Operators and Loops](code102reading/operators.md)
 
 #### Code201
+
 - [Reading 1 - Introductory HTML and Javascript](code201reading/introhtml.md)
 - [Reading 2 - HTML Text, CSS Introduction, and Basic Javascript Instructions](code201reading/morehtml.md)
 - [Reading 3 - HTML Lists, CSS Boxes, JavaScript Control Flow](code201reading/reading3.md)
@@ -48,6 +50,7 @@ In order to keep a growth mindset you should:
 
 
 #### Code301
+
 - [Reading 1 - Intro to React and Components](code301reading/reading1.md)
 - [Reading 2 - States and Props](code301reading/reading2.md)
 - [Reading 3 - Passing Functions as Props](code301reading/reading3.md)
@@ -60,4 +63,8 @@ In order to keep a growth mindset you should:
 - [Reading 10 - Memory Storage](code301reading/reading10.md)
 - [Reading 12 - Mongo and Mongoose](code301reading/reading12.md)
 - [Reading 13 - CRUD](code301reading/reading13.md)
-- [Reading 14 - Diversity & Inclusion](code301reading.reading14.md)
+- [Reading 14 - Diversity & Inclusion](code301reading/reading14.md)
+
+### Code401
+
+- [Reading 1 - Java Basics](code401reading/reading1.md)
