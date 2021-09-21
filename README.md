@@ -68,3 +68,4 @@ In order to keep a growth mindset you should:
 ### Code401
 
 - [Reading 1 - Java Basics](code401reading/reading1.md)
+- [Reading 2 - Arrays, Loops, and Imports](code401reading/reading2.md)
