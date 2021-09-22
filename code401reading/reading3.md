@@ -24,7 +24,7 @@ int i = new Integer(1); // unboxing
 - >Objects in Java are slower and have a bigger memory impact than their primitive analogs.
 
 ## Exceptions
-[Notes take from here](https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html)
+[Notes taken from here](https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html)
 
 - Exception = exceptional event, an event that disrupts the normal flow and execution of the program.
 - When an error occurs, an *exception object* is created which contains information on the error.
@@ -38,6 +38,7 @@ int i = new Integer(1); // unboxing
   3. Runtime exception
 
 ## Scanner
+[Notes taken from here](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
 
 - > Objects of type Scanner are useful for breaking down formatted input into tokens and translating individual tokens according to their data type.
 
