@@ -72,3 +72,4 @@ In order to keep a growth mindset you should:
 - [Reading 3 - Maps, primitives, File I/O](code401reading/reading3.md)
 - [Reading 4 - OOP](code401reading/reading4.md)
 - [Reading 6 - Inheritance and Interfaces](code401reading/reading6.md)
+- [Reading 8 - OO Design](code401reading/reading8.md)
