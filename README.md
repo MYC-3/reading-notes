@@ -73,3 +73,4 @@ In order to keep a growth mindset you should:
 - [Reading 4 - OOP](code401reading/reading4.md)
 - [Reading 6 - Inheritance and Interfaces](code401reading/reading6.md)
 - [Reading 8 - OO Design](code401reading/reading8.md)
+- [Reading 9 - WRRC and Java](code401reading/reading9.md)
