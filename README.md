@@ -75,3 +75,4 @@ In order to keep a growth mindset you should:
 - [Reading 8 - OO Design](code401reading/reading8.md)
 - [Reading 9 - WRRC and Java](code401reading/reading9.md)
 - [Reading 11 - Spring](code401reading/reading11.md)
+- [Reading 12 - Spring RESTful Routing & Static Files](code401reading/reading12.md)
