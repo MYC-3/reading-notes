@@ -79,3 +79,4 @@ In order to keep a growth mindset you should:
 - [Reading 13 - Related Resources and Integration Testing](code401reading/reading13.md)
 - [Reading 14 - BCrypt](code401reading/reading14.md)
 - [Reading 16- Spring Authentication](code401reading/reading16.md)
+- [Reading 17 - Spring Authorization](code401reading/reading17.md)
