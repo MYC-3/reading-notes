@@ -81,3 +81,4 @@ In order to keep a growth mindset you should:
 - [Reading 16- Spring Authentication](code401reading/reading16.md)
 - [Reading 17 - Spring Authorization](code401reading/reading17.md)
 - [Reading 18 - Web App Security](code401reading/reading18.md)
+- [Reading 19 - Spring and Sockets](code401reading/reading19.md)
