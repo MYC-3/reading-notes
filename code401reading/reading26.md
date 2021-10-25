@@ -31,6 +31,7 @@
 ```
 
 - Declaring Component Capabilities example:
+
 ```Java
 <manifest ... >
     ...
@@ -45,6 +46,7 @@
     </application>
 </manifest>
 ```
+
 - Declaring App Requirements
 - App Resources
 
