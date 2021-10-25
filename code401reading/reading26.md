@@ -17,6 +17,7 @@
   - Content Providers - manages a shared set of app data to store somewhere, e.g. an contact list/address book.
 - Your app must have a manifest file, `AndroidManifest.xml`, at the root of your project directory. This file lets the system know what components exist in your app.
 - Declaring Components example:
+
 ```Java
 <?xml version="1.0" encoding="utf-8"?>
 <manifest ... >
@@ -28,6 +29,7 @@
     </application>
 </manifest>
 ```
+
 - Declaring Component Capabilities example:
 ```Java
 <manifest ... >
