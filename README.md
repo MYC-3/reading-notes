@@ -86,3 +86,4 @@ In order to keep a growth mindset you should:
 - [Reading 27 - Intents, Activities, SharedPreferences](code401reading/reading27.md)
 - [Reading 28 - RecyclerView](code401reading/reading28.md)
 - [Reading 29 - Room](code401reading/reading29.md)
+- [Reading 31 - Espresso](code401reading/reading31.md)
