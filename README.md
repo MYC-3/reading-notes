@@ -88,3 +88,4 @@ In order to keep a growth mindset you should:
 - [Reading 29 - Room](code401reading/reading29.md)
 - [Reading 31 - Espresso](code401reading/reading31.md)
 - [Reading 32 - Serverless and Amplify](code401reading/reading32.md)
+- [Reading 33 - GraphQL](code401reading/reading33.md)
