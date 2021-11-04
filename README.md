@@ -89,3 +89,4 @@ In order to keep a growth mindset you should:
 - [Reading 31 - Espresso](code401reading/reading31.md)
 - [Reading 32 - Serverless and Amplify](code401reading/reading32.md)
 - [Reading 33 - GraphQL](code401reading/reading33.md)
+- [Reading 34 - Android Monetization](code401reading/reading34.md)
