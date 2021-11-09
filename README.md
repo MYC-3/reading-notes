@@ -91,3 +91,4 @@ In order to keep a growth mindset you should:
 - [Reading 33 - GraphQL](code401reading/reading33.md)
 - [Reading 34 - Android Monetization](code401reading/reading34.md)
 - [Reading 35 Cognito - Cognito](code401reading/reading35.md)
+- [Reading 36 - S3](code401reading/reading36.md)
