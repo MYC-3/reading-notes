@@ -92,3 +92,4 @@ In order to keep a growth mindset you should:
 - [Reading 34 - Android Monetization](code401reading/reading34.md)
 - [Reading 36 Cognito - Cognito](code401reading/reading36.md)
 - [Reading 37 - S3](code401reading/reading37.md)
+- [Reading 38 - Intent Filters](code401reading/reading38.md)
