@@ -93,3 +93,4 @@ In order to keep a growth mindset you should:
 - [Reading 36 Cognito - Cognito](code401reading/reading36.md)
 - [Reading 37 - S3](code401reading/reading37.md)
 - [Reading 38 - Intent Filters](code401reading/reading38.md)
+- [Reading 39 - Location](code401reading/reading39.md)
