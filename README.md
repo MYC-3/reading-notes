@@ -94,3 +94,5 @@ In order to keep a growth mindset you should:
 - [Reading 37 - S3](code401reading/reading37.md)
 - [Reading 38 - Intent Filters](code401reading/reading38.md)
 - [Reading 39 - Location](code401reading/reading39.md)
+- [Reading 41 - Open-Source Software Contribution](code401reading/reading41.md)
+- [Readgin 42 - Ethics in Tech](code401reading/reading42.md)
